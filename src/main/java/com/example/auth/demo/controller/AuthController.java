@@ -91,4 +91,8 @@ public class AuthController {
 //            return ResultJson.ok(response);
 //        }
 //    }
+    
+    public void gitTest() {
+    	
+    }
 }
